@@ -63,6 +63,15 @@
 - push 操作的是远程仓库
 - 简而言之…… 就是有修改一定要先commit，再push
 
+### 新建文件夹命令行
+
+- 在本地仓库直接新建文件夹，将文件拖入文件夹中
+- git status 查看当前库状态
+- git add *
+- git push origin branch_name
+
+
+
 参考链接
 
 - [Understanding the GitHub Flow](https://guides.github.com/introduction/flow/)
